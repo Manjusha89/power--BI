@@ -1,2 +1,1 @@
-# power--BI
-Power BI Project
+This project effectively analyzed sales data across various segments and regions. The interactive report enables users to drill down into key metrics and dynamically explore trends. Based on the insights, it is recommended that the company concentrate on high-performing regions and refine its discount strategies to enhance profitability.Sum of profit is heigher in the month of october and the country is canada.Sum of gross sales is increasing in every year.
